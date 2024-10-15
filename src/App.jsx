@@ -1,3 +1,4 @@
+import Footer from "./Footer/Footer";
 import Navigation from "./Header/Navigation";
 import Hero from "./Hero/Hero";
 
@@ -6,6 +7,7 @@ function App() {
     <>
       <Navigation></Navigation>
       <Hero></Hero>
+      <Footer></Footer>
     </>
   );
 }
